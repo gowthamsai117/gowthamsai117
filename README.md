@@ -1,11 +1,12 @@
 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gowthamsai117&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamsai117" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Gowtham+Satya+Sai+!;" />
 </h1>
 <h3 align="center">A passionate Frond & Back end Developer, Cyber Security Student from India</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gowthamsai117&label=Profile%20views&color=0e75b6&style=flat" alt="gowthamsai117" /> </p>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMxb203ZjBxM250M3pqMzV0eGF5YnJnNWZsM2wyczlpbDdmdHpoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp">
+
 
 - 🔭 I’m currently working on **Cyber Security Student**
 
